@@ -1,0 +1,25 @@
+{
+  "name": "xmind-logic-map",
+  "version": "0.1.0",
+  "description": "Create reliable, editable XMind mind maps from long-form sources.",
+  "author": {
+    "name": "Q",
+    "url": "https://github.com/liqianglingsen-afk"
+  },
+  "homepage": "https://github.com/liqianglingsen-afk/xmind-logic-map",
+  "repository": "https://github.com/liqianglingsen-afk/xmind-logic-map",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "XMind Logic Map",
+    "shortDescription": "Create validated XMind mind maps from source material.",
+    "longDescription": "Turn videos, documents, web pages, transcripts, and long-form text into reliable, editable XMind mind maps with source links, notes, images, and structural validation.",
+    "developerName": "Q",
+    "category": "Productivity",
+    "capabilities": [
+      "Create XMind files",
+      "Validate XMind package structure"
+    ],
+    "defaultPrompt": "Use $xmind-logic-map to turn this source into a validated, editable XMind mind map."
+  }
+}
+

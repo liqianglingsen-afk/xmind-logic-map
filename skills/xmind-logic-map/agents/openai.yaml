@@ -1,0 +1,5 @@
+interface:
+  display_name: "XMind Logic Map"
+  short_description: "Create reliable XMind mind maps"
+  default_prompt: "Use $xmind-logic-map to turn this source into a validated, editable XMind mind map."
+
